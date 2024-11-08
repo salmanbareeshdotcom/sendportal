@@ -4,7 +4,7 @@
     "description": "SendPortal. Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.",
     "license": "MIT",
     "require": {
-        "php": "^8.2|^8.3",
+        "php": "^8.3",
         "guzzlehttp/guzzle": "^7.8.1",
         "laravel/framework": "^11.0",
         "laravel/horizon": "^5.24",
